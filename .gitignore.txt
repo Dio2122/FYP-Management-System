@@ -1,0 +1,29 @@
+# Compiled Java Class Files & Packages
+*.class
+*.jar
+*.war
+*.ear
+
+# Build Output
+bin/
+out/
+target/
+
+# IDE Configuration
+.project
+.classpath
+.settings/
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+
+# Native DLLs
+*.dll
+*.so
+*.dylib
+
+# OS-generated files
+.DS_Store
+Thumbs.db
